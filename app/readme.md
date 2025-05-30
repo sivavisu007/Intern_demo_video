@@ -27,15 +27,15 @@ hsn-adk-agent/
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/hsn-adk-agent.git
-cd hsn-adk-agent
+    git clone https://github.com/your-username/hsn-adk-agent.git
+    cd hsn-adk-agent
 2. Install Dependencies
-bash
-pip install -r requirements.txt
+
+       pip install -r requirements.txt
 3. Run the Agent
-bash
-python main.py
+
+        python main.py
+   
 🧪 Features Demonstrated
 ✅ HSN Code Validation
 Checks format (2–8 digits, numeric)
@@ -82,4 +82,5 @@ Special thanks to the evaluation team for the assignment brief and support.
 📬 Contact
 Developed by SIVAHARI V
 📧 Email: sivavisu71@gmail.com
-🔗 GitHub: 
+🔗 GitHub: https://github.com/sivavisu007/
+🔗 Video Link: https://drive.google.com/file/d/1bfPpUL-cRbtCbU7VSTF-MF0tJJH8r2c_/view?usp=sharing
